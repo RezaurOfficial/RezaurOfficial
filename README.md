@@ -1,6 +1,6 @@
-<h2 align="center">Hello, I'm <b><a href="https://devrezaur.com" target="_blank">Rezaur Rahman</a></b></h2>
+<h2 align="center">Hello, I'm <b><a href="https://www.linkedin.com/in/rezaurofficial" target="_blank">Rezaur Rahman</a></b></h2>
 
-<p align="center">Senior Software Engineer | Java Specialist | Microservices & Distributed Systems</p>
+<p align="center">Senior Software Engineer | Java Specialist | Tech Mentor</p>
 
 <hr />
 
@@ -24,13 +24,13 @@
 <hr/>
 
 <div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevRezaur&theme=radical&border=7F3FBF&background=0D1117" alt="Rezaur Rahman's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RezaurOfficial&theme=radical&border=7F3FBF&background=0D1117" alt="Rezaur Rahman's GitHub Streak" />
 </div>
 
 <div align="left">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DevRezaur&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Rezaur Rahman's Github Stats" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=RezaurOfficial&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Rezaur Rahman's Github Stats" />
 </div>
 
 <div align="left">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevRezaur&theme=radical" alt="Rezaur Rahman's GitHub Contribution" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RezaurOfficial&theme=radical" alt="Rezaur Rahman's GitHub Contribution" />
 </div>
