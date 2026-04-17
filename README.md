@@ -28,9 +28,5 @@
 </div>
 
 <div align="left">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=RezaurOfficial&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Rezaur Rahman's Github Stats" />
-</div>
-
-<div align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RezaurOfficial&theme=radical" alt="Rezaur Rahman's GitHub Contribution" />
 </div>
